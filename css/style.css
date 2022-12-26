@@ -106,7 +106,7 @@ body {
     padding-bottom: 40px;
 }
 
-.sidebar { 
+.box__sidebar { 
     background: #fcffe7;
     border: 1px solid #000000;
     width: 30%; 
@@ -131,7 +131,7 @@ body {
     list-style-type: disc;
 }
 
-.content {
+.box__content {
     background: #ffffff;
     width: 832px;
     margin-left: 10px;
